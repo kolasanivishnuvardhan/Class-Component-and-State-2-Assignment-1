@@ -1,0 +1,38 @@
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time {
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.history-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logo {
+  width: 8%;
+}
+
+.title {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.domain-url {
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.delete-img {
+  width: 3%;
+}
